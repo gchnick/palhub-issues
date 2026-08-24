@@ -71,5 +71,6 @@ Usamos etiquetas para organizar y priorizar los reportes. Estas son las más com
 * **Por favor, no incluyas información sensible:** No compartas contraseñas, tokens de API, datos personales de publicadores ni información financiera en los reportes públicos.
 * **Vulnerabilidades de seguridad:** Si necesitas reportar una vulnerabilidad de seguridad, **no abras un issue público**. Escríbenos de forma privada a `seguridad@palhub.example` *(reemplaza por el correo oficial de seguridad)*.
 * Este repositorio es únicamente para incidencias y feedback. Las preguntas de soporte general o consultas comerciales deben dirigirse al sitio oficial del proyecto.
+* **Necesitas una cuenta de GitHub para reportar:** Para crear un reporte o sugerencia necesitas iniciar sesión con una cuenta de GitHub (es gratuita). Si no tienes una, puedes registrarte en [github.com/signup](https://github.com/signup). Sin sesión iniciada, el botón de envío del formulario aparecerá desactivado.
 
 ¡Gracias por ayudarnos a mejorar PalHub! 🚀
