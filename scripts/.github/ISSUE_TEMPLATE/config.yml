@@ -1,8 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-  - name: 💬 Pregunta de soporte general
-    url: https://meerkat.gnick-alan.workers.dev
-    about: Para preguntas de soporte general o consultas comerciales, visita el sitio oficial del proyecto.
-  - name: 🔒 Reportar vulnerabilidad de seguridad
-    url: mailto:seguridad@palhub.example
-    about: Por favor, NO reportes vulnerabilidades de seguridad en un issue público. Escríbenos directamente.
